@@ -1,4 +1,4 @@
-# Hi, I'm Grant👋
+# Hi, I'm Grant 👨🏼‍💻
 
 ## About Me
 I'm a passionate backend developer with a focus on server-side/database programming. I enjoy taking complex problems and creating simple and scalable solutions.
