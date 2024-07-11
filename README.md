@@ -1,5 +1,5 @@
 # 💫 About Me:
-RESTful APIs<br>Mobile App Development<br>Frontend/UI Development<br>Azure/Cloud Hosting
+Currently working on: RESTful APIs<br>Looking to collaborate on: Mobile App Development<br>Looking for guidance with: Frontend/UI Development<br>Currently learning: Azure/Cloud Hosting
 
 
 ## 🌐 Socials:
