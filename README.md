@@ -1,6 +1,5 @@
 # 💫 About Me:
-Senior studying CS and Mathematics at the University of Iowa!<bR>Currently working on: RESTful APIs<br>Looking to collaborate on: Mobile App Development<br>Looking for guidance with: Frontend/UI Development<br>Currently learning: Azure/Cloud Hosting
-
+Senior studying CS and Mathematics at the University of Iowa! I build custom APIs to connect various healthcare applications, and handle backend programming & storage, primarily using Microsoft Azure for hosting. Due to this, I'm well versed in cloud terminologies and processes, and can back any application securely. Check out my ![portfolio](https://gtrentz.neocities.org/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/terrarial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/terrarial) 
